@@ -63,18 +63,18 @@ Gracias por tu interés en contribuir a este proyecto. ¡Esperamos tus aportes!
 ___
 ## Imagenes 📸
 
-![Imagen Consola](imagen_1.png)
+![Imagen Consola](resources/images/imagen_1.png)
 
-![Imagen Consola](imagen_2.png)
+![Imagen Consola](resources/images/imagen_2.png)
 
-![Imagen Consola](imagen_3.png)
+![Imagen Consola](resources/images/imagen_3.png)
 
-![Imagen Consola](imagen_4.png)
+![Imagen Consola](resources/images/imagen_4.png)
 
-![Imagen Pagina para obtener clave del Conversor](imagen_5.png)
+![Imagen Pagina para obtener clave del Conversor](resources/images/imagen_5.png)
 #### Ten en cuenta que la clave gratuita, tiene una duración de 14 días, luego expira.
 
-![Imagen Badge](Badge-Conversor.png)
+![Imagen Badge](resources/images/Badge-Conversor.png)
 
 ## Licencia 📜
 
